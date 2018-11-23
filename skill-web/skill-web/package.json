@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-express-jquery-bootstrap-filter-tables",
+  "version": "1.0.0",
+  "description": "Bootstrap Filter Tables with JQuery + NodeJS/EXpress",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "Bootstrap-Filter-Table",
+    "JQuery"
+  ],
+  "author": "JavaSampleApproach.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "request": "^2.88.0",
+    "sync-request": "^6.0.0"
+  }
+}
